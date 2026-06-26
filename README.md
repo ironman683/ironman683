@@ -26,11 +26,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Engineering student building and **shipping** AI/ML-powered products
-- 🤖 Built **ScamSense** — trained Logistic Regression + Random Forest on real job postings with SHAP explainability
-- ✉️ Built **Letter Forge** — LLM-powered cover letter generator, live with SSE streaming
-- 🏆 Shipped **Revvy** in under 48hrs at a hackathon — AI code review assistant
-- 🧠 Currently deep diving into **LangChain, LangGraph & multi-agent systems**
+- 🎓 Engineering student who builds and ships — not just learns
+- 🔨 I work across the full stack: trained ML models, REST APIs, and production UIs
+- 🧠 Currently exploring LangChain, LangGraph & multi-agent systems
+- 🏆 Shipped an AI code review tool in under 48hrs at a hackathon
 
 ---
 
