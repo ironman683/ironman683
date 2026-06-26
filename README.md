@@ -38,14 +38,15 @@
 
 <div align="center">
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,c" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=python" /> `scikit-learn` · `LangChain` · `Groq API` · `NumPy` · `Pandas` |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" /> |
+| **Category** | <div align="center">**Technologies**</div> | **Focus Area** |
+| :--- | :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,js,ts" /> | **Problem Solving & Software Development** |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" /> | **Responsive UI & Modern Web Design** |
+| **Backend** | <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express" /> | **APIs, Web Applications & Services** |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,supabase" /> | **Data Storage & Management** |
+| **AI / ML** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | **ML Models & AI-Powered Applications** |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> | **Version Control & Deployment** |
+| **Real-Time Systems** | ![SSE](https://img.shields.io/badge/SSE-555555?style=flat-square&logoColor=white) ![Server-Sent Events](https://img.shields.io/badge/Server--Sent_Events-0078D4?style=flat-square&logoColor=white) ![PyGitHub](https://img.shields.io/badge/PyGitHub-181717?style=flat-square&logo=github&logoColor=white) ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logoColor=white) | **Async Servers & Live Data Streams** |
 
 </div>
 
@@ -55,11 +56,11 @@
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:------:|
-| [✉️ Letter Forge](https://letter-forge.vercel.app/) | AI cover letter generator with SSE streaming | React · TS · Node.js · Groq | `🟢 LIVE` |
-| [⚙️ Revvy](https://revvy-iota.vercel.app/) | AI code review assistant — bugs, security, performance | React · FastAPI · Groq | `🟢 LIVE` |
-| [📈 Gitlytics](https://gitlytics-red.vercel.app/) | GitHub profile analytics and visualization dashboard | React · Node.js · GitHub API | `🟢 LIVE` |
-| [🛡️ SpamShield](https://spamshield-36t0.onrender.com/) | SMS spam detector — TF-IDF + Logistic Regression | Python · Flask · scikit-learn | `🟢 LIVE` |
-| [🗑️ BinRoute](https://bin-route.vercel.app/) | Smart waste management dashboard for fleet managers | React · Node.js | `🟢 LIVE` |
+| [✉️ Letter Forge](https://letter-forge.vercel.app/) | AI cover letter generator with SSE streaming | `🟢 LIVE` |
+| [⚙️ Revvy](https://revvy-iota.vercel.app/) | AI code review assistant — bugs, security, performance | `🟢 LIVE` |
+| [📈 Gitlytics](https://gitlytics-red.vercel.app/) | GitHub profile analytics and visualization dashboard | `🟢 LIVE` |
+| [🛡️ SpamShield](https://spamshield-36t0.onrender.com/) | SMS spam detector — TF-IDF + Logistic Regression | `🟢 LIVE` |
+| [🗑️ BinRoute](https://bin-route.vercel.app/) | Smart waste management dashboard for fleet managers | `🟢 LIVE` |
 
 ---
 
