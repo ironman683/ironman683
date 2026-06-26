@@ -11,10 +11,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:smitdighe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://smit-dighe-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -28,8 +24,8 @@
 
 - 🎓 Engineering student who builds and ships — not just learns
 - 🔨 I work across the full stack: trained ML models, REST APIs, and production UIs
-- 🧠 Currently exploring LangChain, LangGraph & multi-agent systems
-- 🏆 Shipped an AI code review tool in under 48hrs at a hackathon
+- 🧠 Currently deep diving into LangChain, LangGraph & multi-agent systems
+- 🏆 Shipped Revvy in under 48hrs at a hackathon — AI code review assistant
 
 ---
 
@@ -61,6 +57,9 @@
 | [🛡️ SpamShield](https://spamshield-36t0.onrender.com/) | SMS spam detector — TF-IDF + Logistic Regression | `🟢 LIVE` |
 | [🗑️ BinRoute](https://bin-route.vercel.app/) | Smart waste management dashboard for fleet managers | `🟢 LIVE` |
 
+
+🚀...and more in my repositories.
+
 ---
 
 ## 📊 GitHub Stats
@@ -71,12 +70,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smitdighe&theme=tokyonight" width="32%"/>
 </p>
 
+---
+
+## 🔥 Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=smitdighe&theme=tokyonight"/>
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smitdighe&theme=tokyo-night" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smitdighe&theme=tokyo-night" />
+
 </div>
 
 ---
