@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7B54&height=200&section=header&text=Smit%20Dighe&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20AI%2FML%20Builder&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7B54&height=200&section=header&text=Iron%20Man&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20AI%2FML%20Builder&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=smitdighe&label=PROFILE+VIEWS&color=FF7B54&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ironman683&label=PROFILE+VIEWS&color=FF7B54&style=for-the-badge" />
 </p>
 
 ---
@@ -50,27 +50,12 @@
 
 ---
 
-## 🗂️ Projects
-
-| Project | Description | Status |
-|:--------|:------------|:------:|
-| [✉️ Letter Forge](https://letter-forge.vercel.app/) | AI cover letter generator with SSE streaming | `🟢 LIVE` |
-| [⚙️ Revvy](https://revvy-iota.vercel.app/) | AI code review assistant — bugs, security, performance | `🟢 LIVE` |
-| [📈 Gitlytics](https://gitlytics-red.vercel.app/) | GitHub profile analytics and visualization dashboard | `🟢 LIVE` |
-| [🛡️ SpamShield](https://spamshield-36t0.onrender.com/) | SMS spam detector — TF-IDF + Logistic Regression | `🟢 LIVE` |
-| [🗑️ BinRoute](https://bin-route.vercel.app/) | Smart waste management dashboard for fleet managers | `🟢 LIVE` |
-
-
-🚀...and more in my [repositories.](https://github.com/ironman683?tab=repositories/)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smitdighe&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smitdighe&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smitdighe&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ironman683&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ironman683&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ironman683&theme=tokyonight" width="32%"/>
 </p>
 
 ---
@@ -78,7 +63,7 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=smitdighe&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=ironman683&theme=tokyonight"/>
 </p>
 
 ---
@@ -87,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smitdighe&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ironman683&theme=tokyo-night" />
 
 </div>
 
