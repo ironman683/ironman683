@@ -42,7 +42,7 @@
 **Judge's Special Award — n8n Community Hackathon**
 *Faculty of Computer Science & Applications (FCA), CMPICA, CHARUSAT*
 
-Built a full AI-powered helpdesk automation pipeline in n8n with teammate Nishant Shah — ticket classification via LLM, department routing, real-time SLA breach tracking, auto-escalation, and AI-generated trend reports for admins. Defended every design decision, including prompt-injection safeguards, under live judge cross-questioning.
+Built a full AI-powered helpdesk automation system in n8n — reads incoming tickets, classifies them with an LLM, routes them to the right department, tracks SLA breaches in real time, auto-escalates urgent ones, and generates AI-written trend reports for admins. Defended every design decision under judge cross-questioning, including the choice to flag records instead of deleting them and the safeguards against prompt injection in the AI calls.
 
 </td>
 <td width="40%" align="center">
