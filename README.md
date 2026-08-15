@@ -80,17 +80,10 @@ Built a full AI-powered helpdesk automation system in n8n — reads incoming tic
 |:--------|:------------|:------:|
 | [📄 FinDocAgent](https://fin-doc-agent.vercel.app/) | A multi-agent RAG system over SEC filings | `🟢 LIVE` |
 | [🔭 Fathom](https://fathom-dev.vercel.app/) | Autonomous research agent — searches, reflects, and writes fully cited reports | `🟢 LIVE` |
+| [🌊 Undertow](https://undertow-dev.vercel.app/) | AI-driven incident triage system — classify, deduplicate, resolve | `🟢 LIVE` |
 | [🛡️ Verity](https://verity-iota-two.vercel.app/) | ML job posting fraud detector — LogisticRegression + SHAP explainability | `🟢 LIVE` |
 | [⚙️ Revvy](https://revvy-iota.vercel.app/) | AI pair reviewer — flags bugs, security holes, and performance traps with fixes | `🟢 LIVE` |
-| [📈 Gitlytics](https://gitlytics-red.vercel.app/) | Turns any GitHub profile into a visual story — live GitHub API charts | `🟢 LIVE` |
 | [🗑️ BinRoute](https://bin-route.vercel.app/) | Live waste-collection command center for fleet managers | `🟢 LIVE` |
-| [🔍 Authentify](https://github.com/smitdighe/Authentifi) | Forensic PDF verification pipeline — Flask backend + React frontend | `🔧 CODE` |
-| [🚨 Aegis Intel](https://github.com/smitdighe/Aegis-Intel) | Real-time supply chain risk intelligence platform | `🔧 CODE` |
-| [🔥 Flare](https://github.com/smitdighe/Flare) | AI security incident triage agent with RAG-grounded remediation | `🔧 CODE` |
-| [🌊 Undertow](https://github.com/smitdighe/Undertow) | AI-driven incident triage system — classify, deduplicate, resolve | `🔧 CODE` |
-| [🧬 Gritty](https://github.com/smitdighe/Gritty) | Git reimplemented from scratch in Node.js | `🔧 CODE` |
-| [✉️ Letter Forge](https://github.com/smitdighe/letter-forge) | AI cover letter generator with SSE streaming | `🔧 CODE` |
-| [🚫 SpamShield](https://github.com/smitdighe/SpamShield) | SMS spam detector — TF-IDF + Logistic Regression | `🔧 CODE` |
 
 🚀...and more in my [repositories.](https://github.com/smitdighe?tab=repositories)
 
