@@ -28,7 +28,7 @@
 - 🎓 Engineering student who builds and ships — not just learns
 - 🔨 I work across the full stack: trained ML models, REST APIs, and production UIs
 - 🧠 Currently deep diving into LangChain, LangGraph & multi-agent systems
-- 🏆 Judge's Special Award — n8n Community Hackathon @ CMPICA, CHARUSAT (first hackathon)
+- 🏆 Judge's Special Award — n8n Community Hackathon @ CMPICA, CHARUSAT
 - 🏆 Shipped Revvy in under 48hrs at a hackathon — AI code review assistant
 
 ---
@@ -47,7 +47,7 @@ Built a full AI-powered helpdesk automation system in n8n — reads incoming tic
 </td>
 <td width="40%" align="center">
 
-<img src="./assets/n8n-hackathon-certificate.png" width="100%" alt="Judge's Special Award Certificate" />
+<img src="./assets/n8n-hackathon-Certificate.jpg" width="100%" alt="Judge's Special Award Certificate" />
 
 </td>
 </tr>
