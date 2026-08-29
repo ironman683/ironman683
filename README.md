@@ -35,6 +35,10 @@
 
 ## 🥇 Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smitdighe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
+</p>
+
 <table>
 <tr>
 <td width="60%">
@@ -47,7 +51,7 @@ Built a full AI-powered helpdesk automation system in n8n — reads incoming tic
 </td>
 <td width="40%" align="center">
 
-<img src="./assets/n8n-hackathon-Certificate.jpg" width="100%" alt="Judge's Special Award Certificate" />
+<img src="./assets/Certificate.jpg" width="100%" alt="Judge's Special Award Certificate" />
 
 </td>
 </tr>
@@ -110,6 +114,10 @@ Built a full AI-powered helpdesk automation system in n8n — reads incoming tic
 ## 📈 Contribution Graph
 
 <div align="center">
+
+<img src="./assets/metrics.isocalendar.svg" alt="Isometric contribution calendar" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=smitdighe&theme=tokyo-night" />
 
